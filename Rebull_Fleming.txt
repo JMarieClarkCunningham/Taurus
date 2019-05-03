@@ -1,0 +1,67 @@
+#Cluster    Star              SpTyp      Radius    vsini      Period   Gaia DR2 ##################   SSTtau ID           R.A.      Dec.      Parall    Distance   PMRA     PMDec    µ
+#-[0]-------[1]---------------[2]--------[3]-------[4]--------[5]-----------------[6]----------------[7]-----------------[8]-------[9]-------[10]------[11]-------[12]-----[13]----[14]-
+Tau-Aur     AA Tau            K7-M0      1.5       11.4       8.22     Gaia DR2 147818450613367424   043455.4 + 242853   68.7309   24.4813   7.29      137.20     3.48    −20.99   21.27   
+Tau-Aur     BP Tau            K7         1.7        7.8       7.60     N                             
+Tau-Aur     CI Tau            K7         1.6       10.4                Gaia DR2 145203159127518336   043352.0 + 225030   68.4668   22.8416   6.30      158.71     8.90    −17.07   19.25   
+Tau-Aur     CX Tau            M2         1.8       18.2                N                             
+Tau-Aur     CY Tau            M1         1.5       10.0       7.50     Gaia DR2 164698634160139264   041733.7 + 282046   64.3906   28.3462   7.76      128.88     9.18    −25.55   27.15     
+Tau-Aur     DE Tau            M1         2.2       10.0       7.60     Gaia DR2 152511475478780416   042155.6 + 275506   65.4819   27.9183   7.85      127.37     10.75   −27.22   29.27   
+Tau-Aur     DF Tau            M0.5       3.0       16.1       7.20     N                             
+Tau-Aur     DG Tau            M0         2.3       21.7       6.30     Gaia DR2 151262700852297728   042704.6 + 260616   66.7696   26.1044   8.25      121.18     6.16    −19.30   20.26   
+Tau-Aur     DH Tau            M0         2.0       10.0       7.00     N                             
+Tau-Aur     DI Tau            M0         2.1       10.5       7.70     Gaia DR2 151374198202645376   042942.4 + 263249   67.4270   26.5469   7.40      135.12     6.90    −21.21   22.30   
+Tau-Aur     DK Tau            K7         2.2       11.4       8.40     N                             
+Tau-Aur     DL Tau            M1         1.4       16.0       9.40     Gaia DR2 148010281032823552   043339.0 + 252038   68.4129   25.3438   6.28      159.34     9.33    −18.29   20.53   
+Tau-Aur     DM Tau            M0.5       1.2       10.0                N                             
+Tau-Aur     DN Tau            M0         2.0        8.1       6.30     Gaia DR2 147606657186323712   043527.3 + 241458   68.8641   24.2496   7.80      128.22     6.05    −20.77   21.64   
+Tau-Aur     DO Tau            K7         2.2       11.0                Gaia DR2 148449913884294528   043828.5 + 261049   69.6191   26.1803   7.17      139.38     6.13    −21.34   22.20   
+Tau-Aur     DQ Tau            K7-M0      1.9       30.8                N                             
+Tau-Aur     DR Tau            K5         1.4 <=    10.0       2.80     N                             
+Tau-Aur     FX Tau            M1         2.3       10.0                N                             
+Tau-Aur     GG Tau            K7         2.4       10.2      10.30     N                             
+Tau-Aur     GH Tau            M2         2.3       22.1                N                             
+Tau-Aur     GI Tau            K7         1.6       11.2       7.20     N                             
+Tau-Aur     GK Tau            K7         1.7       18.7       4.60     N                             
+Tau-Aur     GM Aur            K7-M0      1.5       12.4      12.00     N                             
+Tau-Aur     GO Tau            M0         1.4       17.5                N                             
+Tau-Aur     HBC 351           K5         1.2       29.0       1.60     N                             
+Tau-Aur     HBC 359           M2         1.5 <     10.0                N                             
+Tau-Aur     HBC 362           M2         1.1       14.0                N                             
+Tau-Aur     HBC 372           K5         0.6 <     10.0                N                             
+Tau-Aur     HBC 412           M2         1.8 <     30.0                N                             
+Tau-Aur     HK Tau            M0.5       1.9       10.0                N                             
+Tau-Aur     HN Tau            K5         0.7       52.8                N                             
+Tau-Aur     Hubble 4          K7         2.7       12.8                N                             
+Tau-Aur     IP Tau            M0         1.5 <=    11.0       3.25     Gaia DR2 152226491513195648   042457.0 + 271156   66.2379   27.1989   7.66   130.57   8.36  −26.75 28.02   
+Tau-Aur     IQ Tau            M0.5       1.8       11.5       6.25     Gaia DR2 151297958238753664   042951.5 + 260644   67.4648   26.1124   7.62   131.28   5.95  −21.01 21.84   
+Tau-Aur     IW Tau            K7         2.1        6.9       5.60     N                             
+Tau-Aur     LkCa 5            M2V        1.5       37.0                N                             
+Tau-Aur     RXJ0406.8+2541    K7-M0      2.2       38.0       1.73     N                             
+Tau-Aur     RXJ0409.2+1716    M1         1.5       36.5                N                             
+Tau-Aur     RXJ0409.8+2446    M1.5       1.4        3.5                N                             
+Tau-Aur     RXJ0412.8+1937    K6         1.4        6.0                N                             
+Tau-Aur     RXJ0435.9+2352    M1.5       2.1        3.0                N                             
+Tau-Aur     RXJ0438.2+2302    M1         1.1        4.0                N                             
+Tau-Aur     RXJ0444.4+1952    M1         1.9        3.5                N                             
+Tau-Aur     UX Tau B          M1         1.9       10.0                N                             
+Tau-Aur     UY Aur            K7         1.5       19.3                N                             
+Tau-Aur     UZ Tau E          M1         3.0       15.9                N                             
+Tau-Aur     V1068 Tau         K7         1.9       26.1       3.36     N                             
+Tau-Aur     V1069 Tau         K7         1.0       68.0       0.55     N                             
+Tau-Aur     V1070 Tau         K7         2.1       12.9       5.66     Gaia DR2 164422961683000320   041941.2 + 274948   64.9220   27.8299   7.91   126.37   9.94  −24.96 26.87   
+Tau-Aur     V1074 Tau         K5         1.0       17.0       3.38     N                             
+Tau-Aur     V1075 Tau         K7         1.3       27.0       2.43     N                             
+Tau-Aur     V1076 Tau         K7         1.3 <     10.0       6.20     N                             
+Tau-Aur     V1079 Tau         K5         1.2       12.5       5.85     N                             
+Tau-Aur     V1098 Tau         M1V        3.3       21.8       7.20     N                             
+Tau-Aur     V1115 Tau         M0         1.5       21.9       3.35     Gaia DR2 148037764527442944   043619.0 + 254258   69.0796   25.7163   7.81   128.02   8.91  −27.47 28.88   
+Tau-Aur     V397 Aur          K7         1.9 <     10.0       9.30     N                             
+Tau-Aur     V397 Aur NW       K7         1.8       10.4       9.30     N                             
+Tau-Aur     V710 Tau          M1         2.6       15.9                N                             
+Tau-Aur     V819 Tau          K7         1.7 <=    15.0       5.60     N                             
+Tau-Aur     V826 Tau          K7         1.9        4.2       3.70     N                             
+Tau-Aur     V827 Tau          K7         2.0       18.5       3.75     N                             
+Tau-Aur     V830 Tau          K7         1.7       29.1       2.75     N                             
+Tau-Aur     V836 Tau          K7         1.4 <=    15.0       7.00     N                             
+Tau-Aur     V955 Tau          K7         2.0       10.1                N                             
+Tau-Aur     VY Tau            M0         1.5       10.0       5.37     N                             
